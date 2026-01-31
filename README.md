@@ -1,7 +1,7 @@
 ## MMDD 2026: The 2nd Multimodal Deception Detection Competition @CVPR2026
 
 
--   **Training datasets:** [Real-life Trial](https://1drv.ms/u/c/22f5706a50a85774/IQB8BsJFq47bS7JNoEXRT60IAV0jTf0jULlqtJSd5KxiaYA?e=hExRdu) , [Bag-of-Lies](), [Box of lies](https://1drv.ms/u/c/22f5706a50a85774/IQAPUAQ4GQtTQqZdylgMf1FiAaocmkDHDTrLN0aavyI9gfM?e=m08LNs)and the [Miami University Deception Detection Database](https://1drv.ms/u/c/22f5706a50a85774/IQAhvutKYVa_R5CG6apoiljYAdTbb7wSRfwzViW2XRa38Lo?e=XGiAlW).
+-   **Training datasets:** [Real-life Trial](https://1drv.ms/u/c/22f5706a50a85774/IQB8BsJFq47bS7JNoEXRT60IAV0jTf0jULlqtJSd5KxiaYA?e=hExRdu) , [Bag-of-Lies](https://1drv.ms/u/c/22f5706a50a85774/IQDEcvIj5OO9Tq-ya3HKjy9YASJwfNb_-UflqQjq62u_5sQ?e=tfxqHb), [Box of lies](https://1drv.ms/u/c/22f5706a50a85774/IQAPUAQ4GQtTQqZdylgMf1FiAaocmkDHDTrLN0aavyI9gfM?e=m08LNs)and the [Miami University Deception Detection Database](https://1drv.ms/u/c/22f5706a50a85774/IQAhvutKYVa_R5CG6apoiljYAdTbb7wSRfwzViW2XRa38Lo?e=XGiAlW).
 -   **Stage 1 evaluation dataset:** [DOLOs](https://1drv.ms/u/c/22f5706a50a85774/IQC9rZKu_fpGR76fNHLbl6gNAb_35XPXtFOv0zlEQL-GVUU?e=QbLp1r)
 -   **Stage 2 dataset:** [Ongoing!!!]
 
