@@ -1,7 +1,7 @@
 ## MMDD 2026: The 2nd Multimodal Deception Detection Competition @CVPR2026
 
 
--   **Training datasets:** [Real-life Deception Detection](https://public.websites.umich.edu/~zmohamed/resources.html) (Real-life Trial), [Bag-of-Lies](https://iab-rubric.org/index.php/bag-of-lies), and the [Miami University Deception Detection Database](https://sc.lib.miamioh.edu/handle/2374.MIA/6067) (MU3D).
+-   **Training datasets:** [Real-life Deception Detection](https://public.websites.umich.edu/~zmohamed/resources.html) (Real-life Trial), [Bag-of-Lies](https://1drv.ms/u/c/22f5706a50a85774/IQAPUAQ4GQtTQqZdylgMf1FiAaocmkDHDTrLN0aavyI9gfM?e=m08LNs), and the [Miami University Deception Detection Database](https://sc.lib.miamioh.edu/handle/2374.MIA/6067) (MU3D).
 -   **Stage 1 evaluation dataset:** [DOLOs]
 -   **Stage 2 dataset:** [Ongoing!!!]
 
