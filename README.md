@@ -1,10 +1,17 @@
 ## MMDD 2026: The 2nd Multimodal Deception Detection Competition @CVPR2026
 
 
--   **Training datasets:** Onedrive: [Real-life Trial](https://1drv.ms/f/c/22f5706a50a85774/IgD5obpE2aXPRad30eIBXbTOAQ7CxUDVAmFkU9daAlIXPyA?e=GOGh5f) , [Bag-of-Lies](https://1drv.ms/u/c/22f5706a50a85774/IQDEcvIj5OO9Tq-ya3HKjy9YASJwfNb_-UflqQjq62u_5sQ?e=tfxqHb), [Box of lies](https://1drv.ms/u/c/22f5706a50a85774/IQAPUAQ4GQtTQqZdylgMf1FiAaocmkDHDTrLN0aavyI9gfM?e=m08LNs)and the [Miami University Deception Detection Database](https://1drv.ms/u/c/22f5706a50a85774/IQDITAMBj_GYT4q5mD4FjWvMAQz3IIpm9ctnhmsJECGJ0-Y?e=bkldUA).
---   Baidu Netdisk: [Real-life Trial](https://pan.baidu.com/s/1sf-E8p5Kl75bA-GIYUsQhQ) Extraction code: apnd. [Bag-of-Lies](https://pan.baidu.com/s/1R_uw34ytzjTYuGC8812VbA) Extraction code: sjyk. [Box of lies](https://pan.baidu.com/s/1UlHJZtFEEeeT2PDr6k_gHw) Extraction code: ngwa.  [Miami University Deception Detection Database](https://pan.baidu.com/s/1KNNHIaQl9k2EQqPnxizd5w) Extraction code: u7aj.
--   **Stage 1 evaluation dataset:** Onedrive: [DOLOs](https://1drv.ms/u/c/22f5706a50a85774/IQAM4xXboW37SJQBwWcDxYJBAWhFVnlgv9sy9JKxTnA-2Ko?e=69LwWM)
---   Baidu Netdisk:[DOLOs](https://pan.baidu.com/s/1lCC8QojYI_zteLNwkS5hvQ) Extraction code: z43e
+- **Training datasets:** Onedrive: [Real-life Trial](...), [Bag-of-Lies](...), [Box of lies](...) and the [Miami University Deception Detection Database](...)
+  
+  Baidu Netdisk: [Real-life Trial](https://pan.baidu.com/s/1sf-E8p5Kl75bA-GIYUsQhQ) (Extraction code: apnd),
+  [Bag-of-Lies](https://pan.baidu.com/s/1R_uw34ytzjTYuGC8812VbA) (Extraction code: sjyk),
+  [Box of lies](https://pan.baidu.com/s/1UlHJZtFEEeeT2PDr6k_gHw) (Extraction code: ngwa),
+  [Miami University Deception Detection Database](https://pan.baidu.com/s/1KNNHIaQl9k2EQqPnxizd5w) (Extraction code: u7aj).
+
+- **Stage 1 evaluation dataset:** Onedrive: [DOLOs](https://1drv.ms/...)
+
+  Baidu Netdisk: [DOLOs](https://pan.baidu.com/s/1lCC8QojYI_zteLNwkS5hvQ) (Extraction code: z43e)
+
 -   **Stage 2 dataset:** [Ongoing!!!]
 
 
