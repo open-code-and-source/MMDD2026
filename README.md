@@ -12,12 +12,10 @@
 
   Baidu Netdisk: [DOLOs](https://pan.baidu.com/s/1lCC8QojYI_zteLNwkS5hvQ) (Extraction code: z43e)
 
--   **Stage 2 dataset:** [Ongoing!!!]
+-   **Stage 2 dataset:**  
 
+Baidu Netdisk: ([https://pan.baidu.com/s/1lCC8QojYI_zteLNwkS5hvQ](https://pan.baidu.com/s/1FVQdzRRIux5QZNHDvW_EyQ?pwd=ne4g)) (Extraction code: ne4g)
 
-
-
-### **Stage 2 Datasets Features Downloading:**
 
 
 ## Testing the fusion module
